@@ -1,3 +1,9 @@
+import { BrowserRouter } from "react-router-dom";
+
+<BrowserRouter basename="/site-kpi-insight">
+  {/* ...tes routes */}
+</BrowserRouter>
+
 name: Deploy Vite to GitHub Pages
 
 on:
